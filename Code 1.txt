@@ -12,6 +12,7 @@ public class VowelConsonant {
         else
             System.out.println(ch + " is consonant");
             Edit 1
+            Edit 2
 
     }
 }
